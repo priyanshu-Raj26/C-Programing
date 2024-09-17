@@ -1,7 +1,0 @@
-Name            Marks      CGPA  Course         
----------------------------------------------
-Alice           85         8.50  Computer Science
-Bob             78         7.80  Mechanical Engg
-Charlie         92         9.20  Electrical Engg
-David           88         8.80  Civil Engineering
-Eve             81         8.10  Electronics    

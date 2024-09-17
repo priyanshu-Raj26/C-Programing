@@ -1,3 +1,0 @@
-Student name : priyanshu
-Student age : 19
-student cgpa : 7.60
